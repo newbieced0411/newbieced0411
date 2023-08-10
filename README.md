@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @newbieced0411
+- 👋 Hi, I’m @newbieced0411, visit me here: https://newbieced.netlify.app/
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning Reactjs, Vuejs, and more on frontend but still need to improve my laravel knowledge.
 - 📫 How to reach me here or email me at jctdelacarcel@gmail.com
