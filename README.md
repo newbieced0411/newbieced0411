@@ -9,7 +9,7 @@ I've been developing and learning in web development and other web frameworks fo
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My under development profile](http://newbieced.netlify.app/)
 * ✉️  You can contact me at [jctdelacarcel@gmail.com](mailto:jctdelacarcel@gmail.com)
-* 🧠  I'm learning VueJS, Laravel, Livewire
+* 🧠  I'm learning VueJS, Laravel, Livewire, Vuew, React
 * ⚡  I’m interested in Web and Mobile Development\\
 
 ### Skills
