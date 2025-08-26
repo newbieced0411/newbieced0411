@@ -11,7 +11,7 @@ I've been developing and learning in web development and other web frameworks fo
 * 🧠  I'm learning VueJS, Laravel, Livewire, Vuew, React
 * ⚡  I’m interested in Web and Mobile Development\\
 
-### Experienced Programming Languages
+### Experienced Technologies
 
 
 <p align="left">
