@@ -8,7 +8,7 @@ I've been developing and learning in web development and other web frameworks fo
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jctdelacarcel@gmail.com](mailto:jctdelacarcel@gmail.com)
-* 🧠  I'm learning VueJS, Laravel, Livewire, Vuew, React
+* 🧠  I'm learning Laravel, Livewire, Vue, React and Laravel Related Tools
 * ⚡  I’m interested in Web and Mobile Development\\
 
 ### Experienced Technologies
